@@ -1,6 +1,6 @@
 # projetoChallenger1
 projetinho basico ,so pra praticar;
-#Tecnologias
+# Tecnologias
 html 
 css
 vscode
